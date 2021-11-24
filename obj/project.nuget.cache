@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2kIgosvx9MqRROC3d1KnvGLcxuNg6khCy5oMzj895iEjZRb5Nfrtl1vJ4fuSOa+s4Sb0Cw1xOFj8YiR6e7lkBw==",
+  "success": true,
+  "projectFilePath": "D:\\Video Aula Eduardo Pires\\Praticas\\MinhaAppVSCode\\MinhaAppVSCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mout's\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Mout's\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Mout's\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
